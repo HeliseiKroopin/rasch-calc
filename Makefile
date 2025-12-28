@@ -1,7 +1,7 @@
 CC = gcc
 FILE = include/main.c
 FLAGS = -o
-TARGET = result
+TARGET = build/result
 
 all: $(TARGET)
 
