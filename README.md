@@ -1,6 +1,6 @@
 # RASCH CALCULATOR IN UZBEK LANGUAGE
 
-### install
+## install
 #### clone project
 ```shell
 hzkl@pc:~/test/test$ git clone https://github.com/HeliseiKroopin/rasch-calc.git
