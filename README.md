@@ -3,23 +3,23 @@
 ## install
 #### clone project
 ```shell
-hzkl@pc:~/test/test$ git clone https://github.com/HeliseiKroopin/rasch-calc.git
+git clone https://github.com/HeliseiKroopin/rasch-calc.git
 ```
 
 #### open project folder
 ```shell
-hzkl@pc:~/test/test$ cd rasch-calc
+cd rasch-calc
 ```
 
 #### make project
 
 ```shell
-hzkl@pc:~/test/test$ make
+make
 ```
 
 #### run result file
 ```shell
-hzkl@pc:~/test/test$ ./build/result
+./build/result
 ```
 bash
 
